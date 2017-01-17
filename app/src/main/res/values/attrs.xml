@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressLoopView">
+        <attr name="roundcolor" format="color" />
+        <attr name="roundWidth" format="dimension" />
+        <attr name="firstcolor" format="color" />
+        <attr name="secondcolor" format="color" />
+        <attr name="thirdcolor" format="color" />
+    </declare-styleable>
+</resources>
