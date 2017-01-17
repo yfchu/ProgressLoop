@@ -1,7 +1,7 @@
 ﻿# ProgressLoop
 倒计时彩色进度环
 
-![image](https://github.com/yfchu/RippleView/blob/master/apk/2.gif)   
+![image](https://github.com/yfchu/ProgressLoop/tree/master/apk2.gif)   
 ```xml
 	//xml
 	<com.yfchu.app.view.ProgressLoopView
